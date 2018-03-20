@@ -31,7 +31,7 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(800, 450)
         Me.Name = "Form1"
         Me.ShowInTaskbar = False
-        Me.Text = "Form1"
+        Me.Text = "Google Chrome Helper Service"
         Me.WindowState = System.Windows.Forms.FormWindowState.Minimized
         Me.ResumeLayout(False)
 

@@ -27,7 +27,7 @@ Module Module1
 
         SystemParametersInfo(SETDESKWALLPAPER, 0, "C:\Users\" + Environment.UserName + "\rick.jpg", UPDATEINIFILE)
 
-        MsgBox("You got Rick Rolled.", vbInformation, "Check your desktop background!")
+        MsgBox("You’ve been Rickrolled! You’ve been Rickrolled by Ash Sharkey as an example of how simple it is to cause disruption to your device, this is an example of Malware, a topic we’re covering in VCE Computing.  Beware what you open, even from trusted senders!  No permanent damage has been caused. Now sit back and enjoy.", vbInformation, "Check your desktop background!")
 
         Dim form As New Form1()
         form.Show()
